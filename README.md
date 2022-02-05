@@ -1,6 +1,8 @@
 # Final-Project
 
-ERD diagram
+## ERD diagram
+
 ![ERD Diagram](QuickDBD-export.png)
 
-SQL table schema = table_schema.sql
+## SQL table schema
+table_schema.sql
