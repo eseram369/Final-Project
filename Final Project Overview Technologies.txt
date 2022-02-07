@@ -1,0 +1,13 @@
+Technology used throughout the Project:
+
+Data Cleaning and Analysis.
+	We've pulled our dataset through python and will be ETL prior to implement into our database and machine  
+
+Database: 
+	Postgres is the database we intend to use, and we will integrate the information with Tableau for our dashboard display.
+
+Machine Learning:
+	For the ML we are using a mix of panda, Numpy, plotly, plotlyexpress and logistic regress to determine which ML will best fit our project needs.
+
+Dashboard:
+	The dashboard will be integrated through Tableau public. 
