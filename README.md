@@ -26,3 +26,6 @@
 ## The communication protocols
 1. Zoom meeting twice on the week
 2. creating group on Slack
+
+## Finl project presentation
+### [presentation link](https://docs.google.com/presentation/d/12LBR7YiAXR8ZI2CO1T-zZUv7ogXIeeVE1DsjBdtWcPM/edit#slide=id.p)
