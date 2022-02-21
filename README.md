@@ -13,7 +13,7 @@ table_schema.sql
 * avg_bmi.csv
 
 ## Link to Dashboard - Tableau Public (second segment)
-https://public.tableau.com/app/profile/robin8031/viz/CADFinalProject/Dashboard1?publish=yes
+https://public.tableau.com/app/profile/robin8031/viz/CADFinalProject/Dashboard1
 
 ![Dashboard Image](Images/Dashboard_image.JPG)
 
