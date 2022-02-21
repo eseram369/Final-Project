@@ -14,3 +14,5 @@ table_schema.sql
 
 ## Link to Dashboard - Tableau Public (second segment)
 https://public.tableau.com/app/profile/robin8031/viz/CADFinalProject/Dashboard1?publish=yes
+
+![Dashboard Image](Images/Dashboard image.JPG)
