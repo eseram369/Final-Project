@@ -7,11 +7,24 @@
 
 #### These dataset are retrieved from the [Kaggle](https://www.kaggle.com/murattademir/heart-disease-binary-classification/notebook). According to the Centers for Disease Control and Prevention, high blood pressure, high cholesterol, and smoking are three key risk factors for heart disease. At least one of these three risk factors affects around half of Americans. Doctors diagnosed coronary heart disease depend on the many factors  
 - Age
-- Gender
-- Ethnicity
-- Family History and Genetics
-- Lifestyle Habits
-- Environment and Occupation
+- Sex
+- High blood Prusser
+- High cholesterol
+- Smoking 
+- Diabetes
+- Obesity
+- Sleep
+- Race
+- Dite
+- Exercise
+- Alcohol consumption
+- BMI
+- Income
+- Marital status
+- Education
+- Mental health
+- Health care coverage
+- Last time for check up
 
 ## Description of their source of data
 ### Content The Behavioral Risk Factor Surveillance System (BRFSS) is an annual health-related telephone survey conducted by the Centers for Disease Control and Prevention (CDC). The study collects responses on health-related risk behaviors, chronic health conditions, and the utilization of prevention strategies healthcare from over 400,000 Americans each year. Since 1984, it's been held yearly. I used a csv of the dataset available on Kaggle for 2015 for this project. This original dataset has 330 features and includes responses from 441,455 people. These qualities are either direct questions posed to participants or calculated variables based on their responses. This dataset contains 253,680 survey responses from the cleaned BRFSS 2015, which will be used mostly for binary heart disease categorization. This dataset does not have a notable class imbalance. 229,787 people say they don't have/haven't had heart disease, whereas 23,893 say they have. 
