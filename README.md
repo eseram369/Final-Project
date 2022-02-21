@@ -24,3 +24,13 @@ Added image files for presentation
 ![Heart Disease Sex](Images/HD-Sex.PNG)
 
 ![Heart Disease Cholesterol Check](Images/HDvsCholCheck.JPG)
+
+## StoryBoard outline (second segment)
+
+![Storyboard1](Images/Storyboard1.JPG)
+
+![Storyboard2](Images/Storyboard2.JPG)
+
+![Storyboard3](Images/Storyboard3.JPG)
+
+![Storyboard4](Images/Storyboard4.JPG)
