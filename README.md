@@ -16,3 +16,11 @@ table_schema.sql
 https://public.tableau.com/app/profile/robin8031/viz/CADFinalProject/Dashboard1?publish=yes
 
 ![Dashboard Image](Images/Dashboard_image.JPG)
+
+Added image files for presentation
+
+![Heart Disease Age](Images/HD-age.PNG)
+
+![Heart Disease Sex](Images/HD-Sex.PNG)
+
+![Heart Disease Cholesterol Check](Images/HDvsCholCheck.JPG)
