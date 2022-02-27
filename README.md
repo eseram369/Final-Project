@@ -23,9 +23,5 @@
 2. Can a subset of the BRFSS questions be utilized for preventive care screening, such as heart disease? Acknowledgments It's crucial to note that this dataset is simply a cleaned and consolidated version of the BRFSS 2015 dataset previously on Kaggle. 
 
 
-## The communication protocols
-1. Zoom meeting twice on the week
-2. creating group on Slack
-
 ## Finl project presentation
 ### [presentation link](https://docs.google.com/presentation/d/12LBR7YiAXR8ZI2CO1T-zZUv7ogXIeeVE1DsjBdtWcPM/edit#slide=id.p)
