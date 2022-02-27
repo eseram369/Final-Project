@@ -34,3 +34,11 @@ Added image files for presentation
 ![Storyboard3](Images/Storyboard3.JPG)
 
 ![Storyboard4](Images/Storyboard4.JPG)
+
+## Updated Links to dashboards (third segment)
+
+https://public.tableau.com/app/profile/robin8031/viz/CADInitialAnalysis/AnalysisDashboard
+
+https://public.tableau.com/app/profile/robin8031/viz/CADFinalProject/InteractiveDashboard
+
+
