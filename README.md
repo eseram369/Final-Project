@@ -16,12 +16,29 @@
 ## Description of their source of data
 ### Content The Behavioral Risk Factor Surveillance System (BRFSS) is an annual health-related telephone survey conducted by the Centers for Disease Control and Prevention (CDC). The study collects responses on health-related risk behaviors, chronic health conditions, and the utilization of prevention strategies healthcare from over 400,000 Americans each year. Since 1984, it's been held yearly. I used a csv of the dataset available on Kaggle for 2015 for this project. This original dataset has 330 features and includes responses from 441,455 people. These qualities are either direct questions posed to participants or calculated variables based on their responses. This dataset contains 253,680 survey responses from the cleaned BRFSS 2015, which will be used mostly for binary heart disease categorization. This dataset does not have a notable class imbalance. 229,787 people say they don't have/haven't had heart disease, whereas 23,893 say they have. 
 
+## Technologies used
+Data Cleaning and Analysis:
+	We've pulled our dataset through python and will be ETL prior to implement into our database and machine learning.
+Database:
+	SQLite was used to create a flat database structure that can reside locally.
+Machine Learning:
+	Logistic Regression was used on the dataset to predict heart disease risk.
+Dashboard:
+	Tableau dashboards were developed and published on Tableau Public.
+
 ## Questions need to answer
 ### The following is the question to be investigated:
 1. To what extent may BRFSS survey responses be used to forecast the risk of a heart attack? and
 
 2. Can a subset of the BRFSS questions be utilized for preventive care screening, such as heart disease? Acknowledgments It's crucial to note that this dataset is simply a cleaned and consolidated version of the BRFSS 2015 dataset previously on Kaggle. 
 
+## Tableau Dashboards
+### Initial Analysis
+https://public.tableau.com/app/profile/robin8031/viz/CADAnalysis2/InitialAnalysis
 
-## Finl project presentation
+### Interactive Feature Dashboard
+https://public.tableau.com/app/profile/robin8031/viz/CADFinalProject/InteractiveDashboard
+
+
+## Final project presentation
 ### [presentation link](https://docs.google.com/presentation/d/12LBR7YiAXR8ZI2CO1T-zZUv7ogXIeeVE1DsjBdtWcPM/edit#slide=id.p)
